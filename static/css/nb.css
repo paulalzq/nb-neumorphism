@@ -1,14 +1,14 @@
 .theme-light {
-    --color-primary: linear-gradient(45deg, #fbe200, #d4be00);
-    --box-shadow-off: 7px 7px 14px #968700, -7px -7px 14px #ffff00;
-    --nb-news: linear-gradient(145deg, #fbe200, #d4be00);
-    --box-shadow-on: 7px 7px 14px #968700, -7px -7px 14px #ffff00;
-    --box-shadow-3: -15px 15px 30px #a79600, 15px -15px 30px #ffff00;
-    --boton-deep: linear-gradient(145deg, #d4be00, #fbe200);
-    --bg-inset: #ebd300;
-    --box-inset: inset -7px 7px 14px #968700, inset 7px -7px 14px #ffff00;
-    --font-color: #1e1e1e;
-    --svg: #1e1e1e;
+    --color-primary: linear-gradient(45deg, #ebe9f9, #c6c4d2);
+    --box-shadow-off: 7px 7px 14px #bbb9c6, -7px -7px 14px #fdfbff;
+    --nb-news: linear-gradient(145deg, #ebe9f9, #c6c4d2);
+    --box-shadow-on: 7px 7px 14px #bbb9c6, -7px -7px 14px #fdfbff;
+    --box-shadow-3: -15px 15px 30px #bbb9c6, 15px -15px 30px #fdfbff;
+    --boton-deep: linear-gradient(145deg, #c6c4d2, #ebe9f9);
+    --bg-inset: #dcdae9;
+    --box-inset: inset -7px 7px 14px #bbb9c6, inset 7px -7px 14px #fdfbff;
+    --font-color: #224d61;
+    --svg: #224d61;
  }
 
  .theme-dark {
