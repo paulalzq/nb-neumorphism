@@ -1,0 +1,12 @@
+.tema-oscuro {
+    --color-primary: linear-gradient(225deg, #276a76, #205963);
+    --box-shadow-off: -7px 7px 14px #1f545e, 7px -7px 14px #29727f;
+    --nb-news: linear-gradient(145deg, #276a76, #205963);
+    --box-shadow-on: 7px 7px 14px #1f545e, -7px -7px 14px #29727f;
+    --box-shadow-3: -15px 15px 30px #1f545e, 15px -15px 30px #29727f;
+    --boton-deep: linear-gradient(145deg, #205963, #276a76);
+    --bg-inset: #24636e;
+    --box-inset: inset -7px 7px 14px #1f545e, inset 7px -7px 14px #29727f;
+    --font-color: #d3d3d3;
+    --svg: #d3d3d3;
+ }
